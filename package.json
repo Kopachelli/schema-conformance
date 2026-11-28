@@ -40,7 +40,7 @@
     "url": "git+https://github.com/Kopachelli/schema-conformance.git"
   },
   "devDependencies": {
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.6.10",
     "typescript": "^5.6.0"
   },
   "sideEffects": false
